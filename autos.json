@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "model": "X5",
+      "brand": "BMW",
+      "fuel_type": "Diesel",
+      "price": 25000,
+      "availability": true
+    },
+    {
+      "id": 2,
+      "model": "X6",
+      "brand": "BMW",
+      "fuel_type": "Hybrid",
+      "price": 35000,
+      "availability": true
+    },
+    {
+      "id": 3,
+      "model": "Q5",
+      "brand": "Audi",
+      "fuel_type": "Hybrid",
+      "price": 30000,
+      "availability": true
+    },
+    {
+      "id": 4,
+      "model": "Model 3",
+      "brand": "Tesla",
+      "fuel_type": "Electric",
+      "price": 40000,
+      "availability": true
+    },
+    {
+      "id": 5,
+      "model": "Model X",
+      "brand": "Tesla",
+      "fuel_type": "Electric",
+      "price": 70000,
+      "availability": true
+    }
+  ]
+}
